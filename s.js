@@ -1,5 +1,5 @@
 
-function ELEMENT(id) { 
+function ID(id) { 
     return document.getElementById(i) 
 }
 
